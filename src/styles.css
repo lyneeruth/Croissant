@@ -10,6 +10,12 @@ h1 {
   color: rgb(71, 65, 77);
 }
 
+img {
+  max-width: 75%;
+  display: block;
+  margin: 30px auto;
+}
+
 footer {
   text-align: center;
 }
